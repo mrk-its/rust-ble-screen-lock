@@ -1,0 +1,12 @@
+[package]
+name = "rust-ble-screen-lock"
+version = "0.1.0"
+authors = ["Mariusz Kryński <mrk@samba.tv>"]
+edition = "2018"
+
+[dependencies]
+dbus = "0.6.4"
+clap = "2.33.0"
+log = "0.4.6"
+env_logger = "0.6.1"
+
